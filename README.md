@@ -1,0 +1,1 @@
+Please refer to <link href="google.com">medium</link> for a more detailed explanation
